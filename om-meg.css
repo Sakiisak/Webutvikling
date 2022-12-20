@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 1440px;
+  height: 1024px;
+}
+.ellipse-icon15,
+.ellipse-icon16 {
+  position: absolute;
+  top: 1187px;
+  left: -151px;
+  width: 76px;
+  height: 77px;
+}
+.ellipse-icon16 {
+  top: 246px;
+  left: 1155px;
+  width: 122px;
+  height: 122px;
+}
+.om-meg-i6 {
+  position: absolute;
+  top: 291px;
+  left: 219px;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  font-weight: 600;
+  color: var(--color-teal-200);
+}
+.image-2-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 206px;
+  height: 206px;
+  object-fit: cover;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  left: 206px;
+  width: 202px;
+}
+.image-4-icon,
+.image-5-icon {
+  top: 200px;
+  left: 0;
+  width: 206px;
+}
+.image-5-icon {
+  left: 206px;
+  width: 202px;
+}
+.bilder-om-oss {
+  position: absolute;
+  top: 320px;
+  left: 808px;
+  width: 408px;
+  height: 406px;
+}
+.om-meg-i7 {
+  left: 209px;
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.booking7,
+.om-meg-i7,
+.shop-i6 {
+  position: absolute;
+  top: 23px;
+}
+.booking7 {
+  left: 312px;
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.shop-i6 {
+  left: 413px;
+}
+.bli-medlem6,
+.kontakt-meg-i7,
+.shop-i6 {
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.kontakt-meg-i7 {
+  position: absolute;
+  top: 23px;
+  left: 486px;
+}
+.bli-medlem6 {
+  left: 1216px;
+}
+.bli-medlem6,
+.logg-inn8,
+.logo-1-icon6 {
+  position: absolute;
+  top: 23px;
+}
+.logg-inn8 {
+  left: 1338px;
+  display: inline-block;
+  font-weight: 600;
+}
+.logo-1-icon6 {
+  left: 36px;
+  width: 132px;
+  height: 111px;
+  overflow: hidden;
+}
+.the-fox-in {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.the-underground-bunker {
+  margin: 0;
+}
+.the-fox-in-the-tophat-whispere {
+  position: absolute;
+  top: 368px;
+  left: 100px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  font-weight: 600;
+  width: 574px;
+  height: 474px;
+}
+.ellipse-icon17 {
+  position: absolute;
+  top: 812px;
+  left: 674px;
+  width: 175px;
+  height: 175px;
+}
+.shopping-cart-1-icon6 {
+  position: absolute;
+  top: 17px;
+  left: 1171px;
+  width: 32px;
+  height: 33px;
+  object-fit: cover;
+}
+.om-meg-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

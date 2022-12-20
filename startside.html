@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./startside.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;1,600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="startside-div">
+      <div class="rectangle-div24"></div>
+      <img class="ellipse-icon18" alt="" src="public/ellipse-11.svg" /><img
+        class="ellipse-icon19"
+        alt=""
+        src="public/ellipse-24.svg"
+      /><img class="ellipse-icon20" alt="" src="public/ellipse-32.svg" /><img
+        class="image-1-icon"
+        alt=""
+        src="public/image-1@2x.png"
+      /><i class="fitness">FITNESS</i
+      ><i class="i-dag-gjr-det-vondt-i-morgen"
+        >I dag gjør det vondt, i morgen gjør det godt</i
+      >
+      <div class="rectangle-div25"></div>
+      <i class="bli-medlem-n1">Bli medlem nå</i
+      ><i class="om-meg-i8" id="omMegText">Om meg</i
+      ><i class="booking8" id="bookingText">Booking</i
+      ><i class="shop-i7" id="shopText">Shop</i
+      ><i class="kontakt-meg-i8" id="kontaktMegText">Kontakt meg</i
+      ><i class="bli-medlem7" id="bliMedlemText">Bli medlem</i
+      ><i class="logg-inn9" id="loggInnText">Logg inn</i
+      ><img class="logo-1-icon7" alt="" src="public/logo-13.svg" /><img
+        class="shopping-cart-1-icon7"
+        alt=""
+        src="public/shoppingcart-1@2x.png"
+        id="shoppingCart1Icon"
+      />
+    </div>
+
+    <script>
+      var omMegText = document.getElementById("omMegText");
+      if (omMegText) {
+        omMegText.addEventListener("click", function (e) {
+          window.location.href = "./om-meg.html";
+        });
+      }
+      
+      var bookingText = document.getElementById("bookingText");
+      if (bookingText) {
+        bookingText.addEventListener("click", function (e) {
+          window.location.href = "./booking.html";
+        });
+      }
+      
+      var shopText = document.getElementById("shopText");
+      if (shopText) {
+        shopText.addEventListener("click", function (e) {
+          window.location.href = "./shop.html";
+        });
+      }
+      
+      var kontaktMegText = document.getElementById("kontaktMegText");
+      if (kontaktMegText) {
+        kontaktMegText.addEventListener("click", function (e) {
+          window.location.href = "./kontakt-oss.html";
+        });
+      }
+      
+      var bliMedlemText = document.getElementById("bliMedlemText");
+      if (bliMedlemText) {
+        bliMedlemText.addEventListener("click", function (e) {
+          window.location.href = "./registrer-deg.html";
+        });
+      }
+      
+      var loggInnText = document.getElementById("loggInnText");
+      if (loggInnText) {
+        loggInnText.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var shoppingCart1Icon = document.getElementById("shoppingCart1Icon");
+      if (shoppingCart1Icon) {
+        shoppingCart1Icon.addEventListener("click", function (e) {
+          window.location.href = "./handlekurv.html";
+        });
+      }
+      </script>
+  </body>
+</html>

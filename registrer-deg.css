@@ -1,0 +1,227 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 1440px;
+  height: 1024px;
+}
+.ellipse-icon12 {
+  position: absolute;
+  top: 102px;
+  left: 1320px;
+  width: 76px;
+  height: 77px;
+}
+.ellipse-icon13,
+.rectangle-div17 {
+  position: absolute;
+  top: 802px;
+  left: 666px;
+  width: 175px;
+  height: 175px;
+}
+.rectangle-div17 {
+  top: 134px;
+  left: 750px;
+  border-radius: 34px;
+  background-color: var(--color-gray-400);
+  width: 630px;
+  height: 797px;
+}
+.telefonnummer-i {
+  position: absolute;
+  top: 632px;
+  left: 809px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-weight: 600;
+  width: 264px;
+  height: 40px;
+}
+.rectangle-div18,
+.rectangle-div19 {
+  position: absolute;
+  top: 541px;
+  left: 808px;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-teal-200);
+  box-sizing: border-box;
+  width: 431px;
+  height: 64px;
+}
+.rectangle-div19 {
+  top: 699px;
+  left: 809px;
+}
+.passord-i1 {
+  position: absolute;
+  top: 473px;
+  left: 809px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-weight: 600;
+  width: 135px;
+  height: 41px;
+}
+.rectangle-div20 {
+  position: absolute;
+  top: 382px;
+  left: 808px;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-teal-200);
+  box-sizing: border-box;
+  width: 431px;
+  height: 64px;
+}
+.e-mail2,
+.name-i {
+  position: absolute;
+  top: 168px;
+  left: 808px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-weight: 600;
+  width: 108px;
+  height: 40px;
+}
+.e-mail2 {
+  top: 314px;
+  left: 809px;
+  width: 116px;
+  height: 41px;
+}
+.rectangle-div21 {
+  position: absolute;
+  top: 223px;
+  left: 808px;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-teal-200);
+  box-sizing: border-box;
+  width: 431px;
+  height: 64px;
+}
+.rectangle-div22 {
+  position: absolute;
+  top: 802px;
+  left: 916px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-teal-200);
+  width: 275px;
+  height: 88px;
+}
+.bli-medlem-n {
+  position: absolute;
+  top: 822px;
+  left: 931px;
+  font-size: var(--font-size-3xl);
+  width: 252px;
+  height: 109px;
+}
+.bli-medlem-n,
+.om-meg-i5,
+.registrer-deg-her {
+  display: inline-block;
+  font-weight: 600;
+}
+.registrer-deg-her {
+  position: absolute;
+  top: 265px;
+  left: 224px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-teal-200);
+}
+.om-meg-i5 {
+  left: 209px;
+  width: 180px;
+  height: 46px;
+}
+.booking6,
+.om-meg-i5,
+.shop-i5 {
+  position: absolute;
+  top: 23px;
+}
+.booking6 {
+  left: 312px;
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.shop-i5 {
+  left: 413px;
+}
+.bli-medlem5,
+.kontakt-meg-i6,
+.shop-i5 {
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.kontakt-meg-i6 {
+  position: absolute;
+  top: 23px;
+  left: 486px;
+}
+.bli-medlem5 {
+  left: 1216px;
+}
+.bli-medlem5,
+.logg-inn7,
+.logo-1-icon5 {
+  position: absolute;
+  top: 23px;
+}
+.logg-inn7 {
+  left: 1338px;
+  display: inline-block;
+  font-weight: 600;
+}
+.logo-1-icon5 {
+  left: 36px;
+  width: 132px;
+  height: 111px;
+  overflow: hidden;
+}
+.ellipse-icon14 {
+  position: absolute;
+  top: 102px;
+  left: 399px;
+  width: 121px;
+  height: 117px;
+}
+.shopping-cart-1-icon5 {
+  position: absolute;
+  top: 17px;
+  left: 1171px;
+  width: 32px;
+  height: 33px;
+  object-fit: cover;
+}
+.individuell-oppstarts-samtale {
+  position: absolute;
+  top: 387px;
+  left: 168px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-weight: 600;
+  width: 516px;
+  height: 433px;
+}
+.registrer-deg-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

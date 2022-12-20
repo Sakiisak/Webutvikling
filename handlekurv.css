@@ -1,0 +1,314 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 1440px;
+  height: 1024px;
+}
+.om-meg-i2 {
+  left: 209px;
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.booking2,
+.om-meg-i2,
+.shop-i2 {
+  position: absolute;
+  top: 23px;
+  cursor: pointer;
+}
+.booking2 {
+  left: 312px;
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.shop-i2 {
+  left: 413px;
+}
+.bli-medlem2,
+.kontakt-meg-i3,
+.shop-i2 {
+  display: inline-block;
+  font-weight: 600;
+  width: 180px;
+  height: 46px;
+}
+.kontakt-meg-i3 {
+  position: absolute;
+  top: 23px;
+  left: 488px;
+}
+.bli-medlem2 {
+  left: 1216px;
+}
+.bli-medlem2,
+.logg-inn4,
+.logo-1-icon2 {
+  position: absolute;
+  top: 23px;
+}
+.logg-inn4 {
+  left: 1338px;
+  display: inline-block;
+  font-weight: 600;
+}
+.logo-1-icon2 {
+  left: 36px;
+  width: 132px;
+  height: 111px;
+  overflow: hidden;
+}
+.shopping-cart-1-icon2 {
+  position: absolute;
+  top: 17px;
+  left: 1171px;
+  width: 32px;
+  height: 33px;
+  object-fit: cover;
+}
+.din-ordre,
+.image-6-icon {
+  position: absolute;
+  left: 55px;
+}
+.din-ordre {
+  top: 239px;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  font-weight: 600;
+  color: var(--color-teal-200);
+  width: 221px;
+  height: 55px;
+}
+.image-6-icon {
+  top: 373px;
+  width: 185px;
+  height: 185px;
+  object-fit: cover;
+}
+.core-intensity-300-g {
+  position: absolute;
+  top: 361px;
+  left: 305px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  font-weight: 600;
+  width: 414px;
+  height: 42px;
+}
+.image-7-icon {
+  position: absolute;
+  top: 598px;
+  left: 55px;
+  width: 185px;
+  height: 184px;
+  object-fit: cover;
+}
+.f-cked-up-joker-edition-300-g {
+  position: absolute;
+  top: 588px;
+  left: 305px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  font-weight: 600;
+  width: 560px;
+  height: 42px;
+}
+.g-i {
+  top: 427px;
+  left: 305px;
+  width: 58px;
+  height: 30px;
+}
+.bytt-i,
+.g-i,
+.g-i1 {
+  position: absolute;
+  display: inline-block;
+  font-weight: 600;
+}
+.bytt-i {
+  top: 427px;
+  left: 378px;
+  color: var(--color-teal-100);
+  width: 82px;
+  height: 27px;
+}
+.g-i1 {
+  top: 660px;
+  left: 305px;
+  width: 58px;
+  height: 30px;
+}
+.bytt-i1 {
+  top: 660px;
+  left: 378px;
+  color: var(--color-teal-100);
+  width: 82px;
+  height: 27px;
+}
+.betalingsinformasjon,
+.bytt-i1,
+.tilbake {
+  position: absolute;
+  display: inline-block;
+  font-weight: 600;
+}
+.tilbake {
+  top: 186px;
+  left: 55px;
+  color: #a09c9c;
+  width: 265px;
+  height: 23px;
+}
+.betalingsinformasjon {
+  top: 239px;
+  left: 837px;
+  font-size: var(--font-size-2xl);
+  width: 345px;
+  height: 59px;
+}
+.rectangle-icon5 {
+  position: absolute;
+  top: 361px;
+  left: 837px;
+  width: 500px;
+  height: 80px;
+}
+.kortholderens-navn-div,
+.lagre-kortdetaljer-div {
+  position: absolute;
+  top: 374px;
+  left: 860px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 227px;
+  height: 16px;
+}
+.lagre-kortdetaljer-div {
+  top: 690px;
+  left: 872px;
+  width: 141px;
+}
+.michael-jackson-div {
+  position: absolute;
+  top: 404px;
+  left: 861px;
+  display: inline-block;
+  width: 289px;
+  height: 23px;
+}
+.rectangle-icon6 {
+  position: absolute;
+  top: 475px;
+  left: 837px;
+  width: 500px;
+  height: 80px;
+}
+.div,
+.kortnummer-div {
+  position: absolute;
+  display: inline-block;
+}
+.kortnummer-div {
+  top: 488px;
+  left: 860px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  width: 227px;
+  height: 16px;
+}
+.div {
+  top: 518px;
+  left: 861px;
+  width: 289px;
+  height: 23px;
+}
+.rectangle-icon7 {
+  position: absolute;
+  top: 589px;
+  left: 838px;
+  width: 500px;
+  height: 80px;
+}
+.ccv-utlpsdato,
+.div1 {
+  position: absolute;
+  display: inline-block;
+}
+.ccv-utlpsdato {
+  top: 602px;
+  left: 861px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  width: 227px;
+  height: 16px;
+}
+.div1 {
+  top: 632px;
+  left: 862px;
+  width: 289px;
+  height: 23px;
+}
+.rectangle-div5 {
+  position: absolute;
+  top: 754px;
+  left: 837px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-600);
+  width: 241px;
+  height: 60px;
+}
+.fullfr-betaling {
+  position: absolute;
+  top: 770px;
+  left: 872px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  font-weight: 600;
+  color: var(--color-teal-100);
+  width: 178px;
+  height: 28px;
+}
+.ellipse-icon6 {
+  position: absolute;
+  top: 125px;
+  left: 450px;
+  width: 135px;
+  height: 129px;
+}
+.ellipse-icon7,
+.ellipse-icon8 {
+  position: absolute;
+  top: 793px;
+  left: 1171px;
+  width: 176px;
+  height: 175px;
+}
+.ellipse-icon8 {
+  top: 875px;
+  left: 244px;
+  width: 90px;
+  height: 90px;
+}
+.handlekurv-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
